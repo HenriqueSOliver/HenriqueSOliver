@@ -8,10 +8,12 @@
 <h3 align="left">Student of systems analysis and development and programming.</h3>
 
 
+ <div>
+  <a href="https://github.com/HenriqueSOlive">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueSOlive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOlive&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver&theme=chartreuse-dark&show_icons=true) 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&layout=compact&langs_count=16&theme=dracula"/>
 
 
 
@@ -30,4 +32,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver&theme=chartreuse-dark&show_icons=true) 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&layout=compact&langs_count=16&theme=dracula"/>
+
 -->
