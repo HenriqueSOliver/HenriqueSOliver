@@ -11,12 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver&theme=chartreuse-dark&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver)](https://github.com/HenriqueSOliver/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&hide=javascript,html)](https://github.com/HenriqueSOliver/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&layout=compact)](https://github.com/HenriqueSOliver/github-readme-stats)
 
 
 
