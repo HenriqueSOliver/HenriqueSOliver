@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan0170&label=Profile%20views&color=0e75b6&style=flat" alt="HenriqueSOliver" /> </p>
 <h1 align = "justify"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi! </h1>
 <h2 align = "justify"> I'am Henrique S Oliveira</h2>
