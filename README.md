@@ -4,7 +4,7 @@
 
 <h3 align="left">Student of systems analysis and development and programming.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henrique&theme=chartreuse-dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&theme=chartreuse-dark&show_icons=true)
 
 
 <!--
