@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan0170&label=Profile%20views&color=0e75b6&style=flat" alt="HenriqueSOliver" /> </p>
@@ -8,6 +8,8 @@
 <h3 align="left">Student of systems analysis and development and programming.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver&theme=chartreuse-dark&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver&hide=contribs,prs)
 
 
 <!--
