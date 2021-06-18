@@ -13,6 +13,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&layout=compact)](https://github.com/HenriqueSOliver/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HenriqueSOliver)](https://github.com/HenriqueSOliver/github-readme-stats)
+
+
 
 
 
