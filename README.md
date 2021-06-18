@@ -1,6 +1,10 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alan0170&label=Profile%20views&color=0e75b6&style=flat" alt="HenriqueSOliver" /> </p>
+<h1 align = "justify"> Oi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Henrique S Oliveira</h1>
+<h3 align="left">Student of systems analysis and development and programming.</h3>
+
 
 <!--
+### Hi there 👋
 **HenriqueSOliver/HenriqueSOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
