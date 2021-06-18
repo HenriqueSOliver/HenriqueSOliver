@@ -7,7 +7,10 @@
 
 <h3 align="left">Student of systems analysis and development and programming.</h3>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver&theme=chartreuse-dark&show_icons=true) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&hide=javascript,html)](https://github.com/HenriqueSOliver/github-readme-stats)
 
 
