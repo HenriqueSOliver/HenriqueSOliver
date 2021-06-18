@@ -8,7 +8,7 @@
 <h3 align="left">Student of systems analysis and development and programming.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSOliver&theme=chartreuse-dark&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&layout=chartreusedark)](https://github.com/HenriqueSOliver/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSOliver&layout=chartreuse-dark)](https://github.com/HenriqueSOliver/github-readme-stats)
 
 
 
