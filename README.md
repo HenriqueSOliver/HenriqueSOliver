@@ -1,7 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alan0170&label=Profile%20views&color=0e75b6&style=flat" alt="HenriqueSOliver" /> </p>
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h1 align = "justify"> I'am Henrique S Oliveira</h1>
+<h1 align = "justify"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Hi! </h1>
+<h2 align = "justify"> I'am Henrique S Oliveira</h2>
+
 <h3 align="left">Student of systems analysis and development and programming.</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolina&show_icons=true)
 
 
 <!--
